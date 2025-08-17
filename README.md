@@ -1,4 +1,4 @@
-Discount Calculator
+## Discount Calculator
 
 ## Overview
 This is a simple Python program that calculates the final price of an item after applying a discount.  
